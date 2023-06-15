@@ -1,4 +1,5 @@
-
+Konabiyovwi Michael scripting
+Thank you
 Hi! The Tutorial shows you Step-by-Step How to Getting-Started Making and Running a Bash Shell Script in Arch GNU+Linux Desktops.
 
 And the Shell Scripts are files in which we write a Sequence of Commands that we need to perform and are Executed using the Shell utility.
