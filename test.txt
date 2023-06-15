@@ -1,1 +1,2 @@
 New message on test.txt
+What I am studying here
