@@ -5,3 +5,5 @@ Hi! The Tutorial shows you Step-by-Step How to Getting-Started Making and Runnin
 And the Shell Scripts are files in which we write a Sequence of Commands that we need to perform and are Executed using the Shell utility.
 
 The Bash (Bourne Again Shell) is the Default Shell environment for most GNU/Linux system.
+
+I am signing off here from the multiverse
